@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myquery
 - 👀 I’m interested in using technology tools to solving business needs; 
-- 🌱 I’m currently learning DevOps with KudeCloud
+- 🌱 I’m currently learning DevOps with KodeKloud
 - 💞️ I’m looking to collaborate on software development that focus on blockchain, web3 layers, fintech and enterprises applications
 - 📫 How to reach me twitter: @ibearua
 
